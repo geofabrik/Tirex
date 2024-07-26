@@ -1,3 +1,10 @@
+tirex (0.7.1-2~geofabriknoble1) noble; urgency=medium
+
+  * Rebuild for noble.
+  * Update branch in gbp.conf & Vcs-Git URL.
+
+ -- Amanda McCann <amanda@technomancy.org>  Fri, 26 Jul 2024 12:03:28 +0200
+
 tirex (0.7.1-2) unstable; urgency=medium
 
   * Team upload.

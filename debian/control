@@ -12,8 +12,8 @@ Build-Depends: architecture-is-64-bit,
                libjson-perl,
                libmapnik-dev
 Standards-Version: 4.6.2
-Vcs-Browser: https://salsa.debian.org/debian-gis-team/tirex
-Vcs-Git: https://salsa.debian.org/debian-gis-team/tirex.git
+Vcs-Browser: https://github.com/geofabrik/tirex
+Vcs-Git: https://github.com/geofabrik/tirex.git -b geofabrik/noble
 Homepage: https://wiki.openstreetmap.org/wiki/Tirex
 Rules-Requires-Root: no
 
