@@ -6,7 +6,6 @@ Priority: optional
 Build-Depends: architecture-is-64-bit,
                debhelper-compat (= 13),
                dh-apache2,
-               dh-sequence-apache2,
                libboost-program-options-dev,
                libipc-sharelite-perl,
                libjson-perl,
