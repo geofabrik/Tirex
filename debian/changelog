@@ -1,3 +1,10 @@
+tirex (0.7.1-3~geofabrikjammy1) jammy; urgency=medium
+
+  * Rebuild for jammy.
+  * Update branch in gbp.conf & Vcs-Git URL.
+
+ -- Amanda McCann <amanda@technomancy.org>  Thu, 08 Aug 2024 14:10:11 +0200
+
 tirex (0.7.1-3) unstable; urgency=medium
 
   * Team upload.
