@@ -9,7 +9,7 @@ Build-Depends: architecture-is-64-bit,
                libboost-program-options-dev,
                libipc-sharelite-perl,
                libjson-perl,
-               libmapnik-dev (>= 4.0.0)
+               libmapnik-dev
 Standards-Version: 4.6.2
 Vcs-Browser: https://github.com/geofabrik/tirex
 Vcs-Git: https://github.com/geofabrik/tirex.git -b geofabrik/jammy
